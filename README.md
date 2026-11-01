@@ -1,4 +1,4 @@
-# GitHub Dependency Graph Gradle Plugin
+b40c4e2f537f27e1c7068c4ee51a609a83353e43# GitHub Dependency Graph Gradle Plugin
 
 A Gradle plugin for generating a GitHub dependency graph for a Gradle build, which can be uploaded to the [GitHub Dependency Submission API](https://docs.github.com/en/rest/dependency-graph/dependency-submission).
 
